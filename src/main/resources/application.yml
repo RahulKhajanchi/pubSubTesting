@@ -1,0 +1,13 @@
+spring:
+    application:
+        name: pubSubDemo
+    cloud:
+        gcp:
+            project-id: pub-sub-project-430616
+            credentials:
+                location: classpath:pub-sub-project-430616-bd4282bc7f4d.json
+
+pubsub:
+    topic: projects/pub-sub-project-430616/topics/MyTopic1
+    subscriber: projects/pub-sub-project-430616/subscriptions/MyTopic1-sub
+

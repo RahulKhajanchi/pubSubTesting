@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "pubsub.topic",
+    "type": "java.lang.String",
+    "description": "A description for 'pubsub.topic'"
+  },
+  {
+    "name": "pubsub.subscriber",
+    "type": "java.lang.String",
+    "description": "A description for 'pubsub.subscriber'"
+  },
+  {
+    "name": "spring.cloud.gcp.group-id",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.gcp.group-id'"
+  },
+  {
+    "name": "spring.cloud.gcp.pubsub.group-id",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.gcp.pubsub.group-id'"
+  },
+  {
+    "name": "spring.cloud.gcp.id",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.gcp.id'"
+  },
+  {
+    "name": "spring.cloud.gcp.credentials.GOOGLE_CREDENTIALS",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.gcp.credentials.GOOGLE_CREDENTIALS'"
+  },
+  {
+    "name": "spring.cloud.gcp.credentials.location",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.gcp.credentials.location'"
+  }
+]}
